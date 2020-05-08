@@ -1,6 +1,6 @@
-#Absensi Mahasiswa
-Tugas Uas Node JS
-Nama Keompok:
+#Absensi Mahasiswa.
+Tugas Uas Node JS.
+Nama Kelompok:
 173140914111013 - Churin in Maziyah
 183140914111030 - Indrajaya Fikri Rosyidi
 183140914111031 - Almaas Rozikin Herawan
